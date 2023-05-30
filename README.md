@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="images/colab_logo.png" alt="Google Colab Logo">
+ <img src="images/anvil.png" alt="Anvil Logo">
 </p>
 
 <p align="center">Welcome to the <b>Project running guide</b>! This guide will walk you through how to effectively use the <code>.ipynb</code> file in Google Colab and access the frontend of the project.</p>
