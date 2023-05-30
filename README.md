@@ -72,4 +72,4 @@ To save and share your work:
 Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to submit a pull request.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Creative Commons Attribution-NonCommercial (CC BY-NC) license](LICENSE).
